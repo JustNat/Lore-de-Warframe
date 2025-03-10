@@ -11,14 +11,17 @@
             "id": "550a1b41f50fe3d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Albrecht Entrati.md",
-                "mode": "source",
-                "source": false
+                "file": "Warframe - The Lore Timeline.canvas",
+                "viewState": {
+                  "x": -411.901196357103,
+                  "y": -36.04404381792398,
+                  "zoom": -0.3333333333333333
+                }
               },
-              "icon": "lucide-file",
-              "title": "Albrecht Entrati"
+              "icon": "lucide-layout-dashboard",
+              "title": "Warframe - The Lore Timeline"
             }
           }
         ]
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Albrecht Entrati.md",
+                "file": "Warframe - The Lore Timeline.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Albrecht Entrati"
+              "title": "Links inversos para Warframe - The Lore Timeline"
             }
           },
           {
@@ -113,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Albrecht Entrati.md",
+                "file": "Warframe - The Lore Timeline.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Albrecht Entrati"
+              "title": "Links de saída para Warframe - The Lore Timeline"
             }
           },
           {
@@ -142,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Albrecht Entrati.md",
+                "file": "Warframe - The Lore Timeline.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Albrecht Entrati"
+              "title": "Sumário de Warframe - The Lore Timeline"
             }
           }
         ]
@@ -170,8 +173,9 @@
   },
   "active": "550a1b41f50fe3d9",
   "lastOpenFiles": [
-    "Império Orokin.md",
     "Void.md",
+    "README.md",
+    "Império Orokin.md",
     "Warframe - The Lore Timeline.canvas",
     "Albrecht Entrati.md"
   ]

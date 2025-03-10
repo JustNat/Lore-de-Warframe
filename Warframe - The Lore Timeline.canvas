@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"bf28593a855fc01c","type":"file","file":"Império Orokin.md","x":-1680,"y":-500,"width":400,"height":400,"color":"3"},
-		{"id":"44b047c99fca20f8","type":"file","file":"Void.md","x":-1220,"y":-500,"width":400,"height":400}
+		{"id":"44b047c99fca20f8","type":"file","file":"Void.md","x":-1220,"y":-500,"width":400,"height":400},
+		{"id":"bf28593a855fc01c","type":"file","file":"Império Orokin.md","x":-1220,"y":-40,"width":400,"height":400,"color":"3"}
 	],
 	"edges":[]
 }
