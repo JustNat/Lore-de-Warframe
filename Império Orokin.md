@@ -1,7 +1,7 @@
 ![Orokin Tower](https://static.wikia.nocookie.net/warframe/images/d/d5/Zeljko-duvnjak-warframe-orokin-moon-megastructure-a-01.jpg/revision/latest?cb=20210513020349&path-prefix=pt)
 
 O **Império Orokin** foi uma civilização antiga que antes dominava o Sistema Origem (sistema solar), um povo marcado pela sua "imortalidade" devido ao processo de transferência de mentes, conhecido por **Continuidade**, também por sua cultura forte e repressora. A **Era Orokin** foi marcada pelas tecnologias desenvolvidas, algumas delas de alto padrão até para os dias atuais, sendo usadas até hoje (Ex.: Terminais dos planetas). O surgimento dos Orokin não é do conhecimento de ninguém, porém suas escolhas e feitos culminaram no que o Sistema Origem é hoje.
-
+Buscando expandir sua influência para além do Sistema Origem, os Orokin projetaram os Sentients, máquinas orgânicas altamente adaptáveis com a capacidade de terraformar planetas distantes e preparar mundos inteiros para colonização. Eles foram enviados para sistemas solares distantes com o propósito de tornar esses planetas habitáveis para os Orokin
 # Características
 
 Os Orokins eram reconhecidos por eles mesmo como perfeitos e um ápice da evolução, muito devido a especialidade do império que era a manipulação genética, muito bem representada pelas características físicas, em destaque a pele azul, braços longos e assimetria do corpo, atributos culturalmente apreciados e usados para identificá-los das demais castas sociais.
